@@ -36,7 +36,8 @@ The system is simple, each part of the system will have a permission. The admin 
 Technologies: Spring Boot 3, java 17, PQSQL (can be another).
 
 # Day 02: Start
-- [ ] Create a base project
-- [ ] Add entities and flyway.
+- [x] Create a base project
+- [ ] Add configuration, flyway and tables.
+- [ ] Add entities and repositories.
 - [ ] Search how to make a good documentation with Swagger 3.
-- [ ] Add swagger and base controller with docs.
+- [ ] Add swagger and base controller with tdocs.

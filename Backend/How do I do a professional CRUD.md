@@ -9,6 +9,7 @@ The main topics I need to learn are:
 - Security.
 - SQL and PQSQL.
 - Spring Annotations.
+- Docker
 
 ### WOULD BE GOOD
 - Code pattern.

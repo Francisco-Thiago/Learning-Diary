@@ -37,7 +37,11 @@ Technologies: Spring Boot 3, java 17, PQSQL (can be another).
 
 # Day 02: Start
 - [x] Create a base project
+
+# Day 03: Database
 - [ ] Add configuration, flyway and tables.
 - [ ] Add entities and repositories.
+
+# Day 04: Docs
 - [ ] Search how to make a good documentation with Swagger 3.
-- [ ] Add swagger and base controller with tdocs.
+- [ ] Add swagger and base controller with docs.

@@ -41,7 +41,7 @@ Technologies: Spring Boot 3, java 17, PQSQL (can be another).
 # Day 03: Fixing deficits in SQL 1/2
 - [x] Learn SQL theory
 
-After studying I fixed the strange system database. User group could be just a role, but I left it like that (permission_activity by group) because I never created a system that way. The logical model can be improved, because I don't know how to use view or advanced instructions yet, I will study these topics tomorrow.
+After studying I fixed the strange system database. User group could be just a role, but I left it like that (permission_activity by group) because I never created a system that way. The logical model can be improved. I don't know how to use view or advanced instructions yet, I will study these topics tomorrow.
 
 ![image](https://github.com/Francisco-Thiago/Learning-Diary/assets/75057408/53873d67-d08f-4275-a4ec-da3d550fdf4a)
 

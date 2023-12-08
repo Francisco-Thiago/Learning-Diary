@@ -46,9 +46,11 @@ After studying I fixed the strange system database. User group could be just a r
 ![image](https://github.com/Francisco-Thiago/Learning-Diary/assets/75057408/53873d67-d08f-4275-a4ec-da3d550fdf4a)
 
 # Day 04: Fixing deficits in SQL 2/2
-- [ ] Learn advanced instructions in SQL and refactor if necessary
-- [ ] Add configuration, flyway and tables.
+- [X] Learn advanced instructions in SQL and refactor if necessary
+- [X] Add configuration, flyway and tables.
 - [ ] Add entities and repositories.
+
+For some reason flyway stopped working, I can't create entities and repositories because of this. So I'll fix it tomorrow.
 
 # Day 05: Docs
 - [ ] Search how to make a good documentation with Swagger 3.

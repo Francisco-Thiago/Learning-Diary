@@ -38,13 +38,20 @@ Technologies: Spring Boot 3, java 17, PQSQL (can be another).
 # Day 02: Start
 - [x] Create a base project
 
-# Day 03: Fixing deficits in SQL
+# Day 03: Fixing deficits in SQL 1/2
 - [x] Learn SQL theory
 
-# Day 04: Database
-- [ ] Add configuration, flyway and tables.
+After studying I fixed the strange system database. User group could be just a role, but I left it like that (permission_activity by group) because I never created a system that way. The logical model can be improved. I don't know how to use view or advanced instructions yet, I will study these topics tomorrow.
+
+![image](https://github.com/Francisco-Thiago/Learning-Diary/assets/75057408/53873d67-d08f-4275-a4ec-da3d550fdf4a)
+
+# Day 04: Fixing deficits in SQL 2/2
+- [X] Learn advanced instructions in SQL and refactor if necessary
+- [X] Add configuration, flyway and tables.
 - [ ] Add entities and repositories.
 
-# Day 05: Docs
+For some reason flyway stopped working, I can't create entities and repositories because of this. So I'll fix it tomorrow.
+
+# Day 05: Docs (Continue after Programming Habit).
 - [ ] Search how to make a good documentation with Swagger 3.
 - [ ] Add swagger and base controller with docs.

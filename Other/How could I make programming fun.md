@@ -31,4 +31,5 @@ That can be hard because I don't watch videos at all. But I will start watch one
 Start a project now would be impossible, 5 minutes isn't enough. I will consider when I reach at least 40 minutes. This project could be a game, and app or something else.
 
 ## Doing
-WOW, that was nostalgic, a simple html and stylesheet. The time was short, so I did a simple block.
+WOW, that was nostalgic, a simple html and stylesheet. The time was short, so I made a simple card.
+![image](https://github.com/Francisco-Thiago/Learning-Diary/assets/75057408/39eaa2e9-088c-445e-9d16-d32a4d68ee0a)

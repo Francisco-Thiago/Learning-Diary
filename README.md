@@ -3,16 +3,15 @@ Here I will describe what I learned and want to improve every day. Basically I w
 
 ## Challenges
 ### Professional CRUD using Spring Boot
-```📌 Status:  Pause``` ```⏲️ Period: 02/12/2023 ~```
+```📌 Status: Paused``` ```⏲️ Period: 02/12/2023 ~```
 
 I want to make better CRUDs. I don't know anything about tests or files in the back end. I also would like to learn more about PQSQL.
 
 [READ MORE](https://github.com/Francisco-Thiago/Learning-Diary/blob/main/Backend/How%20do%20I%20do%20a%20professional%20CRUD.md)
 
 ### Pragramming Habit (1h30 per day).
-```📌 Status:  Doing``` ```⏲️ Period: 10/12/2023 ~```
+```📌 Status: Doing``` ```⏲️ Period: 10/12/2023 ~```
 
-I want study programming without resistense and enjoy the progress. To recover my old habit I will start very small and explore ways to make it fun!
+I want study programming without resistance and enjoy the progress. To recover my old habit I will start very small and explore ways to make it fun!
 
-READ MORE
-
+[READ MORE](https://github.com/Francisco-Thiago/Learning-Diary/blob/main/Other/How%20could%20I%20make%20programming%20fun.md)

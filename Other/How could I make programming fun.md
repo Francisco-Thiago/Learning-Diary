@@ -28,7 +28,7 @@ That can be hard because I don't watch videos at all. But I will start watch one
 
 ### 6. Do side projects for fun, without any intention.
 
-Start a project now would be impossible, 5 minutes isn't enough. I will consider when I reach at least 40 minutes. This project could be a game, and app or something else.
+Start a project now would be impossible, 5 minutes isn't enough. I will consider when I reach at least 40 minutes. This project could be a game, an app or something else.
 
 ## Doing
 WOW, that was nostalgic, a simple html and stylesheet. The time was short, so I made a simple card.

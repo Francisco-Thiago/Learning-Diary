@@ -52,6 +52,6 @@ After studying I fixed the strange system database. User group could be just a r
 
 For some reason flyway stopped working, I can't create entities and repositories because of this. So I'll fix it tomorrow.
 
-# Day 05: Docs
+# Day 05: Docs (Continue after Programming Habit).
 - [ ] Search how to make a good documentation with Swagger 3.
 - [ ] Add swagger and base controller with docs.

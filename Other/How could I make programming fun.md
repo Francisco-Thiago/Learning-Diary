@@ -33,3 +33,8 @@ Start a project now would be impossible, 5 minutes isn't enough. I will consider
 ## Doing
 WOW, that was nostalgic, a simple html and stylesheet. The time was short, so I made a simple card.
 ![image](https://github.com/Francisco-Thiago/Learning-Diary/assets/75057408/39eaa2e9-088c-445e-9d16-d32a4d68ee0a)
+
+# Day 02: immersed
+I forgot to set a time and started to develop without sense of time. The color theory was the hardest point, find a good color isn't so simple. Because the background is black, the button is strange with any other color color than black. Yellow and red are super weird, but black is neutre.
+
+![image](https://github.com/Francisco-Thiago/Learning-Diary/assets/75057408/91db0872-503a-4c44-a55e-20e7c0d1a6ee)

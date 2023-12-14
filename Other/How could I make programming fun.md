@@ -45,3 +45,8 @@ It's awesome what front end does. I just added a menu now. Tomorrow I will incre
 
 ![image](https://github.com/Francisco-Thiago/Learning-Diary/assets/75057408/989448e1-0dc0-43a7-92b0-15ce859b1194)
 
+# Day 04: Icons
+I added icons and some details in the logo. I have plans to make a carousel and the script to make the side bar viable. 
+
+![image](https://github.com/Francisco-Thiago/Learning-Diary/assets/75057408/23e9f64b-6753-4429-9342-38b02afb276c)
+

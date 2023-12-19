@@ -50,3 +50,8 @@ I added icons and some details in the logo. I have plans to make a carousel and 
 
 ![image](https://github.com/Francisco-Thiago/Learning-Diary/assets/75057408/23e9f64b-6753-4429-9342-38b02afb276c)
 
+# Day 05: Comming back
+After a short trip, I paused progress. I started the footer, but it's not complete yet. Tomorrow I will add items and correct the alignment. Since processing is more natural, now I'm going to speed up. I developed 20 minutes today. Every 1 day I will add 10m until I reach the 2h30 mark.
+
+![image](https://github.com/Francisco-Thiago/Learning-Diary/assets/75057408/eb318651-4e38-4375-8145-f3d7e936dea8)
+

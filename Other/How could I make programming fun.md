@@ -55,3 +55,11 @@ After a short trip, I paused progress. I started the footer, but it's not comple
 
 ![image](https://github.com/Francisco-Thiago/Learning-Diary/assets/75057408/eb318651-4e38-4375-8145-f3d7e936dea8)
 
+# Day 06: Losing the rhythm
+
+I ended up losing the rhythm of my studies because of the break. I made something really simple now, I just adjusted the main content and add more cards. Tomorrow I will fill the footer.
+
+![image](https://github.com/Francisco-Thiago/Learning-Diary/assets/75057408/8eadd9a9-a777-4bd5-8174-a5fba33cdce4)
+
+
+

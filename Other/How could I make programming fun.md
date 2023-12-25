@@ -61,5 +61,8 @@ I ended up losing the rhythm of my studies because of the break. I made somethin
 
 ![image](https://github.com/Francisco-Thiago/Learning-Diary/assets/75057408/8eadd9a9-a777-4bd5-8174-a5fba33cdce4)
 
+# Day 07: Carousel
 
+![image](https://github.com/Francisco-Thiago/Learning-Diary/assets/75057408/ed597199-38cc-4f9f-b09e-004351e38253)
 
+I tried to put a carousel on it.. I had one on codepen, but it needs some adaptations. I used unsplash to generate random images.

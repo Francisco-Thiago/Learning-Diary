@@ -71,3 +71,6 @@ I tried to put a carousel on it.. I had one on codepen, but it needs some adapta
 
 I had another travel and stopped to code again. I took time to think about it all. "What am I doing wrong?". It's easy do the things I doing but at the same time boring. I want to learn something more useful. Thinking in it I decided use pomodoro and see a course to learn interesting topics. My first goul will be learn more about java 08 and 11 in 15 days. I miss something more defined in my studies, this makes me procrastinate.
 
+## Day 09: basic concepts (2/15)
+
+I studied about Lambda and interfaces.
